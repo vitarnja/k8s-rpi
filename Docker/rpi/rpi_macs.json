@@ -1,0 +1,61 @@
+{
+ "Inventory" : [
+	 {
+		 "memory" : "8",
+		 "mark" : "4-yellow",
+		 "ip" : "10.74.85.45",
+		 "tag" : "rpi4-8g-5",
+	         "mac" : "dc:a6:32:b0:b8:5e"
+         },
+	 {
+		 "memory" : "8",
+		 "mark" : "1-yellow",
+		 "ip" : "10.74.85.44",
+		 "tag" : "rpi4-8g-4",
+                 "mac" : "dc:a6:32:c2:2f:3d"
+         },
+	 {
+		 "memory" : "8",
+		 "mark" : "no",
+		 "ip" : "10.74.85.43",
+		 "tag" : "rpi4-8g-3",
+                 "mac" : "dc:a6:32:c2:2e:5f"
+         },
+	 {
+		 "memory" : "8",
+		 "mark" : "2-yellow",
+		 "ip" : "10.74.85.42",
+		 "tag" : "rpi4-8g-2",
+		 "mac" : "dc:a6:32:b0:b7:fe"
+         },
+	 {
+		 "memory" : "8",
+		 "mark": "3-yellow",
+		 "ip" : "10.74.85.41",
+		 "tag" : "rpi4-8g-1",
+		 "mac" : "dc:a6:32:b0:b7:bf"
+         },
+	 {
+		 "memory" : "4",
+		 "mark" : "1-green",
+		 "ip" : "10.74.85.33",
+		 "tag" : "rpi4-4g-3",
+		 "mac" : "dc:a6:32:45:c4:2e"
+         },
+	 {
+		 "memory" : "4",
+		 "mark" : "2-green",
+		 "ip"  : "10.74.85.32",
+		 "tag" : "rpi4-4g-2",
+		 "mac" : "dc:a6:32:11:76:e6"
+         },
+	 {
+		 "memory" : "4",
+		 "mark" : "3-green",
+		 "ip"   : "10.74.85.31",
+		 "tag" : "rpi4-4g-1",
+                 "mac" : "dc:a6:32:26:c0:e2"
+         }
+  ]
+}
+
